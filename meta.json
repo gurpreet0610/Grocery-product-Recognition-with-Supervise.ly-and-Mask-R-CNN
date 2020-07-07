@@ -1,0 +1,35 @@
+{
+    "classes": [
+        {
+            "title": "Fanta_model",
+            "shape": "bitmap",
+            "color": "#FF8300",
+            "geometry_config": {}
+        },
+        {
+            "title": "CocoCola_model",
+            "shape": "bitmap",
+            "color": "#FE001A",
+            "geometry_config": {}
+        },
+        {
+            "title": "Sprite_model",
+            "shape": "bitmap",
+            "color": "#00A65F",
+            "geometry_config": {}
+        },
+        {
+            "title": "bg_model",
+            "shape": "bitmap",
+            "color": "#222222",
+            "geometry_config": {}
+        }
+    ],
+    "tags": [
+        {
+            "name": "confidence_model",
+            "value_type": "any_number",
+            "color": "#0F8A2A"
+        }
+    ]
+}

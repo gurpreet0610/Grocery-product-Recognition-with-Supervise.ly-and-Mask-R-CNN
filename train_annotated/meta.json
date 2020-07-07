@@ -1,0 +1,23 @@
+{
+    "classes": [
+        {
+            "title": "Fanta",
+            "shape": "bitmap",
+            "color": "#FF8300",
+            "geometry_config": {}
+        },
+        {
+            "title": "CocoCola",
+            "shape": "bitmap",
+            "color": "#FE001A",
+            "geometry_config": {}
+        },
+        {
+            "title": "Sprite",
+            "shape": "bitmap",
+            "color": "#00A65F",
+            "geometry_config": {}
+        }
+    ],
+    "tags": []
+}
